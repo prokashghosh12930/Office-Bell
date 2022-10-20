@@ -1,0 +1,34 @@
+{
+    "Data": [
+        {
+            "index": "0",
+            "src": "'../../assets/images/png/coffeIcon/Coffeeicon.png'",
+            "name": "Tea"
+        },
+        {
+            "index": "1",
+            "src": "'../../assets/images/png/coffeIcon/Coffeeicon.png'",
+            "name": "Coffie"
+        },
+        {
+            "index": "2",
+            "src": "'../../assets/images/png/coffeIcon/Coffeeicon.png'",
+            "name": "Water"
+        },
+        {
+            "index": "3",
+            "src": "'../../assets/images/png/coffeIcon/Coffeeicon.png'",
+            "name": "Food"
+        },
+        {
+            "index": "4",
+            "src": "'../../assets/images/png/coffeIcon/Coffeeicon.png'",
+            "name": "Cleaning"
+        },
+        {
+            "index": "5",
+            "src": "'../../assets/images/png/coffeIcon/Coffeeicon.png'",
+            "name": "Spray"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "info": [
+    {
+      "index": 1,
+      "image": "../assets/images/png/office-buildingicon/office-buildingicon.png",
+      "role_text": "Register as a Company"
+    },
+
+    {
+      "index": 2,
+      "image": "../assets/images/png/Employeeicon/Employeeicon.png",
+      "role_text": "Register as an Employee"
+    },
+
+    {
+      "index": 3,
+      "image": "../assets/images/png/Peonicon/Peonicon.png",
+      "role_text": "Register as a Peon"
+    }
+  ]
+}
